@@ -4,3 +4,6 @@
 [submodule "vim-colors-solarized"]
 	path = vim/bundle/vim-colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "vim/bundle/vim-fakeclip"]
+	path = vim/bundle/vim-fakeclip
+	url = git@github.com:kana/vim-fakeclip.git
