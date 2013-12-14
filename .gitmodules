@@ -10,3 +10,6 @@
 [submodule "vim/bundle/jacinto"]
 	path = vim/bundle/jacinto
 	url = git://github.com/alfredodeza/jacinto.vim.git
+[submodule "vim/bundle/puppet"]
+	path = vim/bundle/puppet
+	url = git://github.com/rodjek/vim-puppet.git
