@@ -19,7 +19,5 @@ set expandtab
 set number
 set noswapfile
 
-" vim-flake8 settings
-let g:flake8_ignore="E501"
-" check on write
-autocmd BufWritePost *.py call Flake8()
+" khuno settings
+let g:khuno_ignore="E501"
