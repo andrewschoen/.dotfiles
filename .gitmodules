@@ -6,7 +6,7 @@
 	url = git://github.com/altercation/vim-colors-solarized.git
 [submodule "vim/bundle/vim-fakeclip"]
 	path = vim/bundle/vim-fakeclip
-	url = git@github.com:kana/vim-fakeclip.git
+	url = git://github.com/kana/vim-fakeclip.git
 [submodule "vim/bundle/jacinto"]
 	path = vim/bundle/jacinto
 	url = git://github.com/alfredodeza/jacinto.vim.git
@@ -15,4 +15,4 @@
 	url = git://github.com/rodjek/vim-puppet.git
 [submodule "vim/bundle/khuno"]
 	path = vim/bundle/khuno
-	url = git@github.com:alfredodeza/khuno.vim.git
+	url = git://github.com/alfredodeza/khuno.vim.git
